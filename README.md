@@ -1,7 +1,7 @@
 # CLIMusicPlayer
 A simple music player with command-line based interface. Uses Pygame to play music.
 
-Place your music inside music/
+Place your .mp3 files inside music/
 
 Known issues:
 1. In some menu, input must be numeric, or else program will crash
