@@ -8,5 +8,7 @@ Known issues:
 2. App current only supports .mp3 file extension, more to be added later
 
 Requirements:
-1. Pandas
-2. Pygame (mixer)
+1. pandas==1.2.4
+2. pygame==2.0.1
+
+
